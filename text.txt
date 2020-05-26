@@ -1,0 +1,176 @@
+Welcome to this game (I couldn’t think of any good name for this game so we’ll just tread onward)! This game is my final project for my APUSH class and is meant to explain how I fit into the story of America. My focus mainly revolves around the diversity of America and how the appeal of freedom and choice promoted immigration to America from many other nations. Since I come from a first-generation immigrant family, I felt like focusing on America’s values to promote immigration and provide freedom and security for anyone would better explain how I fit into the story of America. As you, the player, progress through the game, you will be met with different scenarios and have to choose choices. Each choice will affect the outcome of your game (what “type” of ending, i.e. good/bad endings). In order to choose a choice in the game, you must type the [number] the choice corresponds to and press [Enter]. Depending on how you choose to play the game, the perspective in which you see America would differ, which reveals what I see American history as: a history where America can pride themselves on her success in overcoming obstacles, but also understand the oppression many experienced under American rule. If played in a specific way, it is possible to reach a “true” ending, the ending in which I explain in depth on how I fit into the story of America, so try your best to reach that ending! Good luck and have fun! Press [r] and [Enter]/[Space] to start the game.
+0
+1 You are an Irish farmer living in the 1840s. You live a modest life with your family and survive off the land. Then the Irish Potato Famine took place, and all your crops died, leaving you with nothing to survive off of. But in a turn of events, you have been given the opportunity to travel to America. Knowing the enormous amount of wealth and prosperity that lies in America, you feel that it is for your and your family’s best wishes to travel there immediately. But now you have to decide where to settle in America, where do you plan on settling?
+2
+The Northern region of America (New York, Pennsylvania)
+The Southern region of America (Virginia, North/South Carolina)
+6
+7
+2 It is the 1880s and you have just recently immigrated from China to America. You live on the West Coast in San Francisco’s Chinatown with some relatives. They recently passed the Chinese Exclusion Act, preventing all new Chinese people from immigrating to America. You plan on getting a job soon, but your skills are limited due to not understanding English well. What job will you choose?
+3
+Simple waiter job at a nearby restaurant
+Work in the mining industry
+There is no need for a job, I can live by begging!
+8
+9
+10
+3 You are an African-American living in the South in the 1850s. You were born into a slave family and were forcibly removed from your family early on. You now work in a plantation for a white owner. Recently there have been rebellions in many plantations, with slaves attempting to gain freedom and escape to the North. One night, you feel like you have a chance to escape. Will you attempt to run?
+2
+Yes, make a break for it!
+No, what if I get caught?
+11
+12
+4 You were born in Virginia, with your family being the first colonists of America. It is the 1920s and America has been seeing a lot more immigration recently. You are now of age to start looking for a job to make a living. Since you aren’t the oldest son, you won’t gain much land from your father and need to find a job to earn a living. What will you do?
+3
+Move North and work in a factory
+Migrate westward in hopes to find new land to take ownership or to work in.
+Stay in the South and find a humble job or something.
+13
+14
+15
+5 It’s the 21th century and you have been born in America. Your parents were from another country making you a first-generation immigrant. You have been living life comfortably in a small bubble. But recently, you have been noticing a lot of mean comments on the internet targeting many different races. Interesting as to why people are so mean, you begin to do some research. How much research are you willing to spend on this?
+3
+As much as possible, it doesn’t matter if I starve to death or something on the lines of that!
+I don’t want to spend that much time, I prefer to watch tv and play video games.
+I’ll just surf the web a bit I guess.
+16
+17
+18
+6 You go to the North, now you need to find a job. There is a factory job that is hiring, would you like to apply for that job?
+2
+Yes, that would be a good fit
+No, there’s no way I would want to work in a factory.
+19
+20
+7 You go to the South, but there seems to be no one wishing to provide you a job. You seem puzzled as there are many job opportunities, but no one is hiring you. Apparently there is this “nativism” issue in the South. Do you want to research it more?
+2
+Yes, it’s good to figure out what’s going on.
+No, if I ignore it and hide from it it won’t exist.
+21
+22
+8 You get a nice job at a nearby Chinese restaurant, earning a small bit of money. But soon there’s complaints about job competition and you are kicked out of your job. What will you do next?
+2
+Accept it and find another job, hoping that you won’t get kicked out again.
+Protest against this discrimination and fight against those who go against you!
+23
+24
+9 You begin to work in the mining industry. As a coal miner, you spend countless hours of working in a mine. After a few months, you begin to grow tired, working countless hours and barely earning any money. What do you plan on doing next?
+2
+Continue to work hard in the mining industry.
+Quit and look for another job
+25
+23
+10 Your life doesn’t turn out well. Although you do earn a few pennies, you eventually starve to death as no one is willing to support your life along with theirs. You came to America to redo your life, not beg for the rest of your life
+0
+11 You run! You manage to reach the Underground Railroad and reach the North. Now you have become a freed slave. What will you do next?
+2
+Try looking for a job
+Continue to help others and let them escape the South
+26
+27
+12  You decide to not run so you continue to wait and work in the plantation. You get moved to a new location with a worse owner who constantly beat his slaves for his own enjoyment. You get another opportunity to run, should you go now?
+2
+Yes, go for it!
+No, you can continue to endure this. It’s still too risky
+11
+28
+13 You find a good job in the factory, but soon the factory hired too many and were forced to lay you off. As you continue to search, you realize that there were many immigrants working for prices that couldn’t sustain a single person, making you unable to find a job. What will you do?
+2
+Accept it and work for lower.
+Get mad and try to get rid of these immigrants stealing your job positions.
+29
+30
+14 You find a small patch of land to work on. Soon, you find a spouse and live a comfortable life in the Midwest. As you continue to live though, many more people of color began to populate the areas close to your land, preventing you from expanding your property. How do you react?
+2
+Accept it and continue living.
+Complain to the government and tell them to leave the land, since it’s meant for people whose parents worked hard to earn.
+31
+32
+15 You stay in the South and are able to find a good job, working modestly and living a fulfilling life. Your life remains unaffected by migration directly, but you begin to see new products as well as different types of products. Due to the KKK eliminating/driving away people they do not accept, you are unaffected by much of the cultural shift in America. Regardless, immigration does affect your life in some way, although indirectly.
+0
+16 You become knowledgeable in everything about immigration, and fully understand the aspects of immigration. But as you spend too much time researching, you don’t eat or drink, and you also forget to breathe for 3 minutes, resulting in your death.
+0
+17 You ignore the hate, the discrimination, and forget about the history of immigration in America. Although you don’t directly realize it, your life is directly affected by immigration. All the appliances, the railroads, the land, all were influenced by immigration in some sort of way. As you continue to live ignorant of America’s history, history still shapes your life.
+0
+18 You learn a little about immigration, and over time, fully grasp the history of America. You now want to use this information, what will you do?
+2
+Preach to the world about American history even though everyone knows about it.
+Continue to develop your knowledge of American history.
+40
+41
+19 You find a good job in the factory. You keep working hard and are able to maintain your job. By now you earned enough savings that you can migrate westward if you want, what do you plan on doing?
+2
+Move westward and own a field to grow crops.
+Stay in the city and continue to work in the factory, hoping to gain a higher ranking in your work.
+31
+32
+20 You decide not to work in the factory, but in the city, there’s no other job to get. So you end up becoming a beggar on the streets, living off of scraps and trying your best to survive. Sometimes you wonder why you moved to America when all you got was nothing but leftovers from the wealthy. Maybe you should’ve stayed in Ireland.
+0
+21 You learn more about nativism and the hate against immigrants, as many of the jobs were taken and given to immigrants. Now you are angered by the discrimination you experience within the South and demand the government to act upon this.
+1
+Yeah, we need to do something about this!
+33
+22 No you can’t. Hiding from it means it still exists. You continue to search for jobs to no avail. Fortunately you went to the North to look for a job instead of staying in the South.
+1
+Yes go to the North (you kinda have to do this).
+6
+23 You get kicked out again, job after job. You do get paid but the cost of finding more jobs is tremendous. What will you do?
+2
+Keep persisting, nothing will beat hard work.
+This is unfair, I demand to see your manager!!!1!1!1!!
+34
+35
+24 You protest and argue, but nothing changes. Only many many years later did Chinese and all immigrants get more job opportunities, but for now, your arguments are left unheard.
+0
+25 You work hard, earning every penny with your sweat and tears. You grow tired and weary but you continue to work harder and harder. Soon you saved up enough money to create a family.
+1
+Settle and raise a family in America
+36
+26 Your job hunt was a success! You found a good job and slowly raised a family. But when all things are turning out well, some Southern folks come to the North and take you back as a slave, leaving your family without you. But as you are being transported you find an opening to run.
+1
+Make a break for it
+37
+27 You become a famous member of the Underground Railroad. It’s a risky job and you get caught multiple times, but escape all those times nonetheless. But there is one time where you get caught again.
+1
+Make a break for it
+37
+28 You endure it, and endure it, and endure it, until you can’t endure anymore. Luckily, the Civil War begins and the North enters your owner’s land and frees you. You become a free man and live happily in the South.
+1
+Yay for happiness in the South.
+38
+29 You accept it and keep working. You work harder than you have ever worked before, barely making enough to survive. The wages keep going lower, what do you do?
+2
+Accept it and work for lower.
+Get mad and try to get rid of these immigrants stealing your job positions.
+39
+30
+30 You join this group called the “Know-Nothings” that targets immigrants and wishes to lower the quota of immigrants. Slowly, less and less immigrants come to America, but there are still always immigrants regardless.
+0
+31 You raise a family in the west and live a peaceful life. You feel as if your life is quite secluded but little did you know, the continued immigration and the diversity of life slowly affected you as well, in many indirect ways.
+0
+32 You keep working in the city against all the competition. Regardless you keep working, and you could say the hard work pays off. You live a fulfilling life full of work and work. The competition from immigrants is immense but you slowly increase your ranks. You adapt the American culture and raise a family.
+0
+33 You try to protest, to argue, to fight against this discrimination, but you still are unable to change anything in the South. Angered by this, you move to the North in search of jobs. Luckily there are more job opportunities in the North.
+1
+Go to the North (still kinda forced so yeah).
+6
+34 You keep working hard, and that eventually pays off. You raise a family in America and live in a mixed culture of American and Chinese ideals. You help develop the Chinatown in San Francisco and spread awareness of Chinese culture and festivals in America. You live the successful life you dreamed of in America.
+0
+35 Good luck finding a manager here.
+1
+Keep persisting, nothing will beat hard work.
+34
+36 You finally settle down, relaxing for a bit. You don’t have much but it’s enough to live with. You end up living a peaceful happy life by yourself. It may have not been perfect, but it’s good enough for you.
+0
+37 You run for it, but get caught by the KKK in the South. Sadly you are unable to escape this time and become martyred as one of the lives lost in the fight for civil rights.
+0
+38 Your happiness in the South does not last. The KKK come after you and try to get rid of your happiness. You run to the North and successfully escape, but the fear scars you and you are unable to feel happiness anymore.
+0
+39 Your hard work pays off, you make a ton of money and eventually enough to raise a family. As a native citizen you grow a distaste towards the immigrants, making your younger life much harder than necessary, but in the end, you worked as hard as you can to earn a happy life.
+0
+40 What will preaching do, no one will listen to a child.
+1
+Continue to develop your knowledge of American history.
+41
+41 You begin to understand American history, the ups and downs, the humiliating parts and the wonderful parts. You learn about slavery, discrimination against immigrants, nativism, but also the acceptance of immigrants, civil rights, womens rights, etc. You continue to develop your knowledge on the diversity of America.
+0
